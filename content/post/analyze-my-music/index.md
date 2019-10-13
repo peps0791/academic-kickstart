@@ -1,12 +1,20 @@
 ---
 title: Analyze My Music
+subtitle:  Building an app to analyze music preferences using Spotify API.
+summary:  Building an app to analyze music preferences using Spotify API.
 date: 2017-08-14
 math: true
 diagram: true
 markup: mmark
+tags:
+- NodeJS
+- Javascript
+categories:
+- Music
+- Web
 image:
-  placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  placement: 1
+  caption: 'Image credit: [**hrhibiza.com**](https://blog.hrhibiza.com/blog/2015/12/14/how-your-music-choices-predict-your-personality/)'
 ---
 
 

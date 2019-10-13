@@ -33,7 +33,7 @@ education:
     year: 2019
   - course: BTech in Information Technology 
     institution: University School of Information and Communication Technology
-    year: 2009
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
