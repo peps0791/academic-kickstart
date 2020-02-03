@@ -14,8 +14,8 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: CUbiC Lab, Arizona State University
-  url: "https://cubic.asu.edu/"
+- name: Axxess
+  url: "http://www.axxess.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include music information retrieval, recommendation systems and web.
