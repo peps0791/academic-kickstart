@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+role: Developer
 
 # Organizations/Affiliations
 organizations:
