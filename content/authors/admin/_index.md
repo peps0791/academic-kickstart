@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Developer
+role: Software Developer
 
 # Organizations/Affiliations
 organizations:
@@ -68,9 +68,10 @@ user_groups:
 - Visitors
 ---
 
-I am a recent Compute Science graduate student from Arizona State University.
-Currently, I am exploring the field of Music Information Retrieval, focused on playlist representation and recommendation.
+I graduated from Arizona State University, majoring in Computer science. For my master's thesis, I worked on representing playlists in a way that could be used for search and recommendation purposes. Currently, I am working as a software developer at Axxess.
+ 
+In my spare time, I look for avenues to expand on the capabilities of Playlist-2-vec, a playlist discovery/recommendation engine born out of my thesis.
 This blog is my journal as I explore the mystical world of binary and try to create something meaningful.
 
-When not wrangling with the 1s and 0s, I’m likely reading blogs, running or playing guitar.
+When not wrangling with the 1s and 0s, I’m likely reading blogs, running, or playing guitar.
 

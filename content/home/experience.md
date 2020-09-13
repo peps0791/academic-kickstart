@@ -33,8 +33,12 @@ date_format = "Jan 2006"
   company_url = "https://cubic.asu.edu/"
   location = "Tempe, AZ, USA"
   date_start = "2019-06-08"
-  date_end = ""
-  description = """ """
+  date_end = "2019-12-30"
+  description = """ 
+Highlights:
+
+* Trained MobileNet, an object detection algorithm, on a custom dataset, and deployed it on a wearable device with real-time inference.
+* Collected and annotated the custom dataset using VGG image annotator."""
 
 [[experience]]
   title = "Research Assistant"
